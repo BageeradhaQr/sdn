@@ -1,10 +1,12 @@
 import { Component } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'sdn-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'sdnui';
+  title = 'Software Developer Network';
+  welcome = 'Welcome To ';
+  salesTeam = 'Sales Team';
 }
