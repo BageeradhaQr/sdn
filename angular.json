@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "sdnui"
+  "defaultProject": "sdnui",
+  "cli": {
+    "analytics": "df6a1ecc-c7dc-42ab-bde4-24c1c7c34e74"
+  }
 }
